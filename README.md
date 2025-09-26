@@ -1,7 +1,7 @@
 # sagebrush_hardware
 Hardware designs associated with the SageBRUSH system
 
-# Versions
+# Station Versions
 ## LoRa Gateways
 ### Cellular
 Cell enabled LoRa Gateway stations for remote deployments outside of the range of the nearest in-network Nanobeam. Not optimal, but often necessary. 
