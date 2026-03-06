@@ -1,3 +1,6 @@
+Build Instructions
+
+
 ###Caveats
 ## LoRa Gateway - Antennas
 For all gateway setups, we include standard LoRa gain antennas in our materials
@@ -11,7 +14,7 @@ areas. We recommend going with a monthly plan to start at less data than
 you think you need, and then topping up data as you hit lows. Then choosing
 a longer term plan (typically with a discount) based on what your usage
 was. You can calculate expected data usage knowing the amount of devices,
-amount of gateway up/downlinks, rate of device packets, and size of packets, 
+amount of gateway up/downlinks, rate of device packets, and size of packets,
 but this calculation is an estimate and does not account for all the data
 usage factors, so it's important to monitor your baseline at first so you don't
 overshoot or undershoot long term.
@@ -19,4 +22,4 @@ overshoot or undershoot long term.
 Ensure you choose an IoT data SIM. Not a SIM card with a phone number indended
 for phone usage. The SIM card linked is good for individual deployments and
 is plug and play. For large scale deployments, you may want to look into
-IoT SIM management platforms where data plans are pooled across devices. 
+IoT SIM management platforms where data plans are pooled across devices.
