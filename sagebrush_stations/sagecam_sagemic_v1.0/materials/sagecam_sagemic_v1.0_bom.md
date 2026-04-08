@@ -12,25 +12,26 @@
 | Sand bags        | Emart Heavy Duty Sandbags           | Stabilize stand       | 1      | 24.96     | 24.96  | Amazon   | [Link](https://www.amazon.com/Sandbag-Studio-Weight-Saddlebag-Photography/dp/B07ZCJ8N3F) |
 | Lighting stand   | Impact Heavy Duty Light Stand (13') | Raise camera/nanobeam | 1      | 130.99    | 130.99 | Amazon   | [Link](https://www.amazon.com/Impact-Air-Cushioned-Heavy-Duty-Light-Stand/dp/B006U6NWFS) |
 | Aluminum angle   | 6061 Aluminum Angle Bar             | Custom mount          | 1 ft   | 9.63      | 9.63   | McMaster | [Link](https://www.mcmaster.com/catalog/131/4229/8982K123)                               |
-| ¼-20 lock washer | Stainless lock washer               | Secure mount          | 2      | 0.0727    | 7.27   | McMaster | [Link](https://www.mcmaster.com/92147A029/)                                              |
-| ¼-20 washer      | Stainless washer                    | Pressure distribution | 2      | 0.0814    | 8.14   | McMaster | [Link](https://www.mcmaster.com/91525A117/)                                              |
-| ¼-20 screw       | Stainless hex screw                 | Mount camera          | 1      | 0.302     | 7.55   | McMaster | [Link](https://www.mcmaster.com/93190A537/)                                              |
-| ¼-20 nut         | Stainless nut                       | Secure mount          | 1      | 0.2364    | 5.91   | McMaster | [Link](https://www.mcmaster.com/90257A029/)                                              |
+| ¼-20 lock washer | Stainless lock washer               | Secure mount          | 2      | 0.0727    | 0.1454 | McMaster | [Link](https://www.mcmaster.com/92147A029/)                                              |
+| ¼-20 washer      | Stainless washer                    | Pressure distribution | 2      | 0.0814    | 0.1628 | McMaster | [Link](https://www.mcmaster.com/91525A117/)                                              |
+| ¼-20 screw       | Stainless hex screw                 | Mount camera          | 1      | 0.302     | 0.302  | McMaster | [Link](https://www.mcmaster.com/93190A537/)                                              |
+| ¼-20 nut         | Stainless nut                       | Secure mount          | 1      | 0.2364    | 0.2364 | McMaster | [Link](https://www.mcmaster.com/90257A029/)                                              |
 | Guyline cable    | VEVOR Stainless Wire Rope           | Guyline setup         | ~39 ft | 0.06/ft   | 2.34   | Amazon   | [Link](https://www.amazon.com/VEVOR-Stainless-Thimbles-Breaking-Strength/dp/B0DLP336ZV)  |
 | Turnbuckles      | M6 Turnbuckles                      | Tighten guylines      | 3      | 1.70      | 5.10   | Amazon   | [Link](https://www.amazon.com/FVIEXE-10PCS-Turnbuckle-Stainless-Tensioner/dp/B094ZRGZ3P) |
 | Zip ties         | 8" Zip Ties                         | Cable management      | ~5     | 0.04      | 0.20   | Amazon   | [Link](https://www.amazon.com/Tensile-Strength-indoor-outdoor-Skalon/dp/B09PJ8L58G)      |
 | Ground stakes    | VASGOR Ground Anchors               | Secure guylines       | 1      | 19.98     | 19.98  | Amazon   | [Link](https://www.amazon.com/VASGOR-Anchors-Diameter-Canopies-Securing/dp/B0B528ZKSV)   |
 ## Box and Wiring
-| Item                | Name                   | Description          | Qty    | Cost/Unit | Total | Vendor   | Link                                                                                         |
-| ------------------- | ---------------------- | -------------------- | ------ | --------- | ----- | -------- | -------------------------------------------------------------------------------------------- |
-| Ethernet cable      | VIVO Cat6 Bulk Cable   | Custom cables        | ~6 ft  | 0.16      | 1.92  | Amazon   | [Link](https://www.amazon.com/VIVO-Ethernet-Cable-250ft-CABLE-V015/dp/B01FIMM8WW)            |
-| Power cable         | iGreely 10AWG Wire     | Battery/solar wiring | ~24 ft | 1.2       | 14.4  | Amazon   | [Link](https://www.amazon.com/dp/B0BYNZSBKW)                                                 |
-| Cable glands        | AMPELE PG7             | Weatherproofing      | 6      | 0.23      | 1.38  | Amazon   | [Link](https://www.amazon.com/AMPELE-Waterproof-Plastic-Adjustable-3-5-6mm/dp/B09X4GK3FT)    |
-| Ring terminals      | 12–10 AWG terminals    | Battery connectors   | 2      | 0.25      | 0.5   | McMaster | [Link](https://www.mcmaster.com/7113K19/)                                                    |
-| Solar connectors    | BougeRV connectors     | Cable connections    | 1 pair | 1.66      | 1.66  | Amazon   | [Link](https://www.amazon.com/BougeRV-22PCS-Solar-Connectors-Female/dp/B073TX1N5Q)           |
-| Ethernet connectors | RJ45 pass-through      | Ethernet termination | 10     | 0.2       | 2     | Amazon   | [Link](https://www.amazon.com/gp/aw/d/B085F31B38)                                            |
-| Pi case             | Aluminum Heatsink Case | Protect Pi           | 1      | 24.95     | 24.95 | Adafruit | [Link](https://www.adafruit.com/product/4340)                                                |
-| Enclosure           | TICONN Junction Box    | Component enclosure  | 1      | 26.96     | 26.96 | Amazon   | [Link](https://www.amazon.com/TICONN-Waterproof-Electrical-Junction-Enclosure/dp/B0B87V7QTH) |
+| Item                | Name                   | Description          | Qty    | Cost/Unit | Total  | Vendor   | Link                                                                                         |
+| ------------------- | ---------------------- | -------------------- | ------ | --------- | -----  | -------- | --------------------------------------------------------------------------------------------------- |
+| Ethernet cable      | VIVO Cat6 Bulk Cable   | Custom cables        | ~36 ft | 0.16      | 5.76   | Amazon   | [Link](https://www.amazon.com/VIVO-Ethernet-Cable-250ft-CABLE-V015/dp/B01FIMM8WW)                   |
+| 20G Power cable     | NAOEVO 20 Guage Wire   | POE Injector Power   | ~1 ft  | 0.1499    | 0.1499 | Amazon   | [Link](https://www.amazon.com/NAOEVO-Conductors-Electrical-Extension-Automotive/dp/B0DG1SB9P6?th=1) |
+| 10G Power cable     | iGreely 10AWG Wire     | Battery/solar wiring | ~24 ft | 1.2       | 14.4   | Amazon   | [Link](https://www.amazon.com/dp/B0BYNZSBKW)                                                        |
+| Cable glands        | AMPELE PG7             | Weatherproofing      | 6      | 0.23      | 1.38   | Amazon   | [Link](https://www.amazon.com/AMPELE-Waterproof-Plastic-Adjustable-3-5-6mm/dp/B09X4GK3FT)           |
+| Ring terminals      | 12–10 AWG terminals    | Battery connectors   | 2      | 0.25      | 0.5    | McMaster | [Link](https://www.mcmaster.com/7113K19/)                                                           |
+| Solar connectors    | BougeRV connectors     | Cable connections    | 1 pair | 1.66      | 1.66   | Amazon   | [Link](https://www.amazon.com/BougeRV-22PCS-Solar-Connectors-Female/dp/B073TX1N5Q)                  |
+| Ethernet connectors | RJ45 pass-through      | Ethernet termination | 10     | 0.2       | 2      | Amazon   | [Link](https://www.amazon.com/gp/aw/d/B085F31B38)                                                   |
+| Pi case             | Aluminum Heatsink Case | Protect Pi           | 1      | 24.95     | 24.95  | Adafruit | [Link](https://www.adafruit.com/product/4340)                                                       |
+| Enclosure           | TICONN Junction Box    | Component enclosure  | 1      | 26.96     | 26.96  | Amazon   | [Link](https://www.amazon.com/TICONN-Waterproof-Electrical-Junction-Enclosure/dp/B0B87V7QTH)        |
 ## Electrical Components
 | Item         | Name                  | Description           | Qty | Cost/Unit | Total  | Vendor   | Link                                                                                                                  |
 | ------------ | --------------------- | --------------------- | --- | --------- | ------ | -------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -45,6 +46,6 @@
 | ----------------- | ----------------- | ----------------- | --- | --------- | ----- | ---------- | ----------------------------------------------------------------------------------------------- |
 | Audiomoth         | Audiomoth v1.2.0  | Acoustic sensing  | 1   | 99.99     | 99.99 | GroupGets  | [Link](https://groupgets.com/products/audiomoth)                                                |
 | Cable             | Micro USB Cable   | Connect Audiomoth | 1   | 8.88      | 8.88  | DigiKey    | [Link](https://www.digikey.com/en/products/detail/startechcom/USBAUB6BK/25697387)               |
-| Enclosure         | IP65 Junction Box | Protect Audiomoth | 1   | 3.995     | 7.99  | Amazon     | [Link](https://www.amazon.com/LMioEtool-Waterproof-Dustproof-Universal-Enclosure/dp/B0CF1CFPZL) |
+| Enclosure         | IP65 Junction Box | Protect Audiomoth | 1   | 3.995     | 3.995 | Amazon     | [Link](https://www.amazon.com/LMioEtool-Waterproof-Dustproof-Universal-Enclosure/dp/B0CF1CFPZL) |
 | Acoustic membrane | IP67 Membrane     | Sound passthrough | 1   | 0.99      | 0.99  | PCBArtists | [Link](https://pcbartists.com/product/ip67-acoustic-membrane/)                                  |
 
