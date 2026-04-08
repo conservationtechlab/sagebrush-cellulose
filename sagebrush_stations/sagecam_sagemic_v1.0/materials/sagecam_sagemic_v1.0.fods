@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2026-03-06T10:32:39.561997235</meta:creation-date><dc:date>2026-03-06T10:41:00.160397553</dc:date><meta:editing-duration>PT8M21S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="38" meta:object-count="0"/><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator></office:meta>
+ <office:meta><meta:creation-date>2026-03-06T10:32:39.561997235</meta:creation-date><dc:date>2026-04-08T14:02:01.692389312</dc:date><meta:editing-duration>PT14M19S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="287" meta:object-count="0"/><meta:user-defined meta:name="ProgId">Excel.Sheet</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">27529</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">13801</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">63320</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">18062</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">7</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">6</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">8</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">26</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -28,7 +28,7 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1488</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1849</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -63,6 +63,15 @@
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
    <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
@@ -73,9 +82,9 @@
    <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="PrinterName" config:type="string">HP_OfficeJet_Pro_8020_series_97F887</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rAH+/0hQX09mZmljZUpldF9Qcm9fODAyMF9zZXJpZXNfOTdGODg3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9PZmZpY2VKZXRfUHJvXzgwMjBfc2VyaQAWAAMAzQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9SFBfT2ZmaWNlSmV0X1Byb184MDIwX3Nlcmllc185N0Y4ODcKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpMZXR0ZXIAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
    <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
@@ -87,6 +96,7 @@
    <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item-map-named config:name="ScriptConfiguration">
     <config:config-item-map-entry config:name="Sheet1">
@@ -97,7 +107,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -182,37 +194,55 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="2.3047in"/>
   </style:style>
   <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.4575in"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="9.6528in"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="3.0126in"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.9807in"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
-  <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="1.1091in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="0.4866in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="0.798in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro5" style:family="table-row">
-   <style:table-row-properties style:row-height="0.9535in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro6" style:family="table-row">
-   <style:table-row-properties style:row-height="1.7307in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
+  <number:text-style style:name="N100">
+   <number:text-content/>
+  </number:text-style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="no-wrap"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="DejaVu Sans" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="DejaVu Sans" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100"/>
   <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="DejaVu Sans" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap"/>
+   <style:paragraph-properties fo:text-align="end"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="DejaVu Sans" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="no-wrap"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="DejaVu Sans" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -244,13 +274,24 @@
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
    <table:table table:name="Sheet1" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="ce2"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="4" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>item</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>name</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>description</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>quantity</text:p>
@@ -264,16 +305,23 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>suggested vendor</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>link</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Power system (outside box)</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Renogy 28in Adjustable Solar Panel Mount Brackets, with Foldable Tilt Legs on Any Flat Surface for RV, Roof, Boat, Any Off-Grid Systems</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>solar panel mounts</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Brackets for mounting onto the solar panels so they can sit at the angle of your choice securely on the ground.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
@@ -287,14 +335,21 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>amazon</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.amazon.com/Renogy-Adjustable-Solar-Panel-Brackets/dp/B07CSKFWK7/ref=sr_1_5?crid=2LDK13EMLJSRK&amp;keywords=solar+panel+mount+bracket&amp;qid=1686959151&amp;s=lawn-garden&amp;sprefix=solar+panel+mount+bracke%2Clawngarden%2C136&amp;sr=1-5</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/Renogy-Adjustable-Solar-Panel-Brackets/dp/B07CSKFWK7/ref=sr_1_5?crid=2LDK13EMLJSRK&amp;keywords=solar%2Bpanel%2Bmount%2Bbracket&amp;qid=1686959151&amp;s=lawn-garden&amp;sprefix=solar%2Bpanel%2Bmount%2Bbracke%2Clawngarden%2C136&amp;sr=1-5&amp;th=1</text:p>
      </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro3">
      <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Renogy 50 Watt 12 Volt Monocrystalline Solar Panel (Compact Design)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>solar panels</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Solar panels for recharging battery.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
@@ -308,14 +363,21 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>amazon</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.amazon.com/gp/product/B07GTH79JP/?th=1</text:p>
      </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro4">
      <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>FLASLD Large Fireproof Lipo Bag for 100Ah Lithium Battery Storage and Charging, 14 x 7.8 x 9.5in Waterproof Box for Documents and Valuables</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>battery case</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Protecting the battery from the elements.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
@@ -326,32 +388,46 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>amazon</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.amazon.com/FLASLD-Fireproof-Waterproof-Documents-Valuables/dp/B0B1VV2CBD?source=ps-sl-shoppingads-lpcontext&amp;ref_=fplfs&amp;smid=A2ALSQ2QMV8GYY&amp;th=1</text:p>
      </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro5">
      <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>12V 100Ah LiFePO4 Lithium Battery- BCI Group 31, Deep Cycle RV LiFePO4 Battery with Low-Temp Protection, 100A BMS, 1280Wh, Max.15000 Cycles, 10-Year Lifespan for RV, Solar, Trolling Motor, Marine </text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>BtrPower 12V 100AH Lithium Battery,5000+ Deep Cycle LiFePO4 Battery with Built-in 100A BMS fit for Home Storage,Trolling Motor,RV,Off-Grid System,Solar Power System,Marine</text:p>
+      <text:p>battery</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Battery for powering the system.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="289" calcext:value-type="float">
-      <text:p>289</text:p>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="219.99" calcext:value-type="float">
+      <text:p>219.99</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>amazon</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>https://www.amazon.com/dp/B09S5LVMPH/ref=emc_b_5_t?th=1</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/Battery-Low-Temp-Protection-Max-15000-Lifespan/dp/B0FN35WZ68/ref=sr_1_4?crid=AGX27MTGCURZ&amp;dib=eyJ2IjoiMSJ9.Q-5yZzoUtbOcQtZcWfH4wOPsxWhN_w4in3mepXFHQ7nPirJTg0_a2AHwKqJpoGRyRB9uw7EJm-4fVBc98u9UBdoesneoiYWJ7GH38-XdRN5UcukQ_qluM-h57tQNR_QtjAEPHuu632SZetWhk2HHH_7ZUgIR4eBsFtsOs7M3e3FXGp2YeG7S43bYfspoSumBnBQoD2F_-AoZgzeRGFXgMF2TCt5L-2B_OxTgnncqjrY.rq5oYqjkdhQ9dPuFb65KIhsXTpl-UIbKb6B_uN6JTu4&amp;dib_tag=se&amp;keywords=100%2Bah%2Blife-04%2Bbattery&amp;qid=1775681825&amp;sprefix=100%2Bah%2Blife-04%2Bbattery%2Caps%2C200&amp;sr=8-4&amp;th=1</text:p>
      </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro6">
      <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>BougeRV Solar Connectors Y Branch Parallel Adapter Cable Wire Plug Tool Kit for Solar Panel</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>solar panel connectors</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Connecting the 2 solar panels together.</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
@@ -362,17 +438,814 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>amazon</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>https://www.amazon.com/dp/B0753X68PS/ref=sspa_dk_detail_3?pd_rd_i=B0753X68PS&amp;pd_rd_w=w6QTZ&amp;content-id=amzn1.sym.d81b167d-1f9e-48b6-87d8-8aa5e473ea8c&amp;pf_rd_p=d81b167d-1f9e-48b6-87d8-8aa5e473ea8c&amp;pf_rd_r=K05J432F64QV62G2WQ3H&amp;pd_rd_wg=F5dVU&amp;pd_rd_r=bbf777a5-8858-45b9-8f6a-99a77638065b&amp;s=lawn-garden&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&amp;th=1</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-      <text:p>Box/Box internals</text:p>
+      <text:p>Deployment/Securing</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:number-columns-repeated="4"/>
-     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="9"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Emart Heavy Duty Sandbag Photo Studio Weight Bag Saddlebag Design for Photography Stand Light Stand Tripod, Outdoor Patio, Sports, Photo Sets, Film Sets, Live Productions -4 Packs Set</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>sand bags</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Weighing down the lighting stand to add stability.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>24.96</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24.96" calcext:value-type="float">
+      <text:p>24.96</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/Sandbag-Studio-Weight-Saddlebag-Photography/dp/B07ZCJ8N3F/r</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Impact Air Cushioned Heavy Duty Light Stand, Black - 13&apos; (4m)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>lighting stand</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Light and transportable stand for raising the camera and nanobeam high off the ground.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="130.99" calcext:value-type="float">
+      <text:p>130.99</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/Impact-Air-Cushioned-Heavy-Duty-Light-Stand/dp/B006U6NWFS/ref=sr_1_8?crid=3SGYOE7HFDGQ4&amp;dib=eyJ2IjoiMSJ9.pS8NQaC5jPutxmBP_xZJ55uEYZyB1cUYMOpeM7gup9Q1kHGki9KT0FH_Mw4_JPg2CVK4MwmsppccJRniBzvYv0W4rmbCvSvRAILl1mJi5hzE3wc1Lz731mdhxA06II_gM-4PnmJFsuIXt0MUbf0hdnydZfchjiP1no66wOXaRFh6LSy77rwCMYvSES_Gp5WZuiBLMYh5M9KzmfVdrDPjm6-VXQiSSIuRZ9WUCDaCoQYt25WuXmD3hV5sd2uGFLS6Zos44vmmVq4iKgHRqAL0kmN0Hf2KIHge67BP_OeLvt4.BwHuIw4uIMzUs-et13VAqKiDv-yz4I_eXRVIY7IXHSw&amp;dib_tag=se&amp;keywords=Flashpoint+Pro+Air-Cushioned+Heavy-Duty+Light+Stand+%28White%2C+13%27%29&amp;qid=1747781044&amp;s=electronics&amp;sprefix=flashpoint+pro+air-cushioned+heavy-duty+light+stand+white%2C+13%27+%2Celectronics%2C111&amp;sr=1-8</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Multipurpose 6061 Aluminum 90 Degree Angle with Round Edge, 1/8&quot; Thickness, 2.5&quot; High x 1.5&quot; Wide Outside</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>aluminum angle bar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Creating a custom mount for the camera to be secured to the top of the lighting stand.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1ft</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="9.63" calcext:value-type="float">
+      <text:p>9.63</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>mcmaster</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.mcmaster.com/catalog/131/4229/8982K123</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>316 Stainless Steel Split Lock Washer for 1/4&quot; Screw Size, 0.26&quot; ID, 0.487&quot; OD</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>¼ 20 lock washer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Helps secure the camera and stand to the custom camera mount.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>.0727 per washer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7.27" calcext:value-type="float">
+      <text:p>7.27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>mcmaster</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.mcmaster.com/92147A029/</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Highly Corrosion-Resistant 316 Stainless Steel Washer, Oversized, for 1/4&quot; Screw Size, 0.266&quot; ID, 0.500&quot; OD</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>¼ 20 washer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Distributing pressure on custom camera mount holes.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>.0814 per washer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8.14" calcext:value-type="float">
+      <text:p>8.14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>mcmaster</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.mcmaster.com/91525A117/</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Super-Corrosion-Resistant 316 Stainless Steel Hex Head Screw, 1/4&quot;-20 Thread Size, 1/2&quot; Long</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>¼ 20 screw</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bolt for securing camera to custom metal mount.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.302 per screw</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7.55" calcext:value-type="float">
+      <text:p>7.55</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>mcmaster</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.mcmaster.com/93190A537/</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Highly Corrosion-Resistant 316 Stainless Steel Hex Nuts, 1/4&quot;-20 Thread Size, 7/16&quot; Wide, 3/16&quot; High</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>¼ 20 nut</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For securing the custom camera mount to the ¼ 20 screw at the top of the lighting stand.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>.2364 per nut</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="5.91" calcext:value-type="float">
+      <text:p>5.91</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>mcmaster</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.mcmaster.com/90257A029/</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>VEVOR 1/16 Wire Rope, 330 FT 304 Stainless Steel Cable with 80 Sleeves, 20 Thimbles, 450 lbs Breaking Strength, 7x7 Strands Marine Aircraft Grade for Handrail Stair Decking Fence Outdoors </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>guyline cable</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For making guylines, comes with clamps.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>~39ft</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>.06 (per foot)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2.34" calcext:value-type="float">
+      <text:p>2.34</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/VEVOR-Stainless-Thimbles-Breaking-Strength/dp/B0DLP336ZV/ref=sr_1_2_sspa?crid=QX8KFZPY2URZ&amp;dib=eyJ2IjoiMSJ9.7-zPieLQgUDDE1E0n8Ri7qgPuxQKPeRgYRQnt7kSXAMrjqSmvGPNW15My8ZRINdJyeK5-5QbEWxvh70ZJ0GCz1r18TZbFNsWcvLjFm0i8YK_uBfMPgh3JF1ycNJsgFxxh5zOIysKcoVbinwNLEhexz6mzkMaVWLg-ZZD0Aahnd4HbPMMefB2EqwEgr21YKajhXfRl6LCB12MbmA5LxjI6w79iteH7UEeJ9vw1zWuj5Q.exthclaDqxsyjy9gxDjjkJ0ZxfCEcPNUk9mgMzpv5JE&amp;dib_tag=se&amp;keywords=guy%2Bwire%2B1%2F16&amp;qid=1758912190&amp;sprefix=guy%2Bwire%2B1%2F16%2Caps%2C144&amp;sr=8-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10Pack M6 Turnbuckle Hook and Eye, Stainless Steel Cables Wire Turnbuckles, Heavy Duty Turnbuckle for Wire Rope Tension, Cable Railing Hardware Kit for Sun Shade Sail, Tent Installation</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>turnbuckles</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For tightening the guylines.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1.70 (per turnbuckle)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="5.1" calcext:value-type="float">
+      <text:p>5.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/FVIEXE-10PCS-Turnbuckle-Stainless-Tensioner/dp/B094ZRGZ3P/ref=asc_df_B094ZRGZ3P?mcid=8a9556388cda34df9355b29fcf4801f5&amp;hvocijid=12387737504728567484-B094ZRGZ3P-&amp;hvexpln=73&amp;tag=hyprod-20&amp;linkCode=df0&amp;hvadid=721245378154&amp;hvpos=&amp;hvnetw=g&amp;hvrand=12387737504728567484&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9112910&amp;hvtargid=pla-2281435178298&amp;psc=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zip Ties 8 inch (100 Pack), 40lbs Tensile Strength, Black Cable Ties, Wire Ties for indoor and outdoor use, by Skalon </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>zip ties</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For securing the nanobeam and camera cables to the lighting stand so they don’t flap about, and cable management of extra lengths battery/solar cables.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>~5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.04 (per ziptie)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0.2" calcext:value-type="float">
+      <text:p>0.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/Tensile-Strength-indoor-outdoor-Skalon/dp/B09PJ8L58G/ref=sr_1_4?crid=1EYX4KMDHGJL2&amp;dib=eyJ2IjoiMSJ9.ZPH2FNYyRHIIiL9r0q8BQjWyAL6hyfS5InMH7x9Qd1BurqIMNo8pEAg7Kxm8HcpXIdQynKGSRTIBBPTYbVYrRpjjhdKHhag6ZN2fCid4Qr-1OWikFZ9Kj8vjFM0yg1l9dkq5DrwyrxbWRvtjxAaKpaazuV6FZKZ1HK7pBaCKRcIuW4VT_pG4kPaBvtKoCq-ywUg70cD8uWyewgBQiaAilPVh1KXRi9S2p4OuADVPoKk.sORTU0OAZ-uLTkKlj1uLDUbFv_bBgfztbZ4LD2q-s9w&amp;dib_tag=se&amp;keywords=zip%2Bties&amp;qid=1758912323&amp;sprefix=zip%2Btie%2Caps%2C195&amp;sr=8-4&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>VASGOR 12” Ground Anchors (4pcs) Easy to Use with Drill, 10mm Diameter, Heavy Duty Anchor Hook for Camping Tent, Canopies, Car Ports, Sheds, Swing Sets, Securing Animals – Black Powder Coated</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ground stakes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For securing the guylines into the ground.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="19.98" calcext:value-type="float">
+      <text:p>19.98</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/VASGOR-Anchors-Diameter-Canopies-Securing/dp/B0B528ZKSV/ref=sr_1_15?crid=3BUUS3Y9G2WRA&amp;dib=eyJ2IjoiMSJ9.7HR5zIFm-xmWFDZLqAnoyEtYBQmrLtTrCR68ndTVDUfcwurYtZtc1hgznrExg_nH7lZiJDmHOKSSeQzZ5FsHF_RcW_I2cMklYnBkO94k7wzO_MBxNZ6SOAvu6ALRB9L4WxAaLFwI4F3ciGdQgOESNwrsZDzMWiFQyH5UoaP-RiO7nOxjdL-zZXpe6NWgmMvXC766DuHvp_lvxcm3jeUVCc9BRpUIgTHy2MO6D_Qd07t6p9qCzOnf9f3e6ZnLkBQ6qoNcLPjcwRF1kZpHMb4YCSRnjNfEzuD-2t4LC1R53nVAMIOfKfElLGvOqGdsY3g_OtEVRhTKiIvj-PZ2UVPcrNbA7ZJK-D1SH4ozrVdGgxNeji-UTvGd65Mpr94FOnc5mZGCFZov5hk2pRwDzaFmGmsBjDsgBPjDSq5zL7T4ylwUOJLNTuGGTgxXxBwyoQEJ.Q502LddPJg4r9pvOBwL5iHCy0xROYshW6dJIBipIXsk&amp;dib_tag=se&amp;keywords=ground%2Banchors%2B12%22%2Bhook&amp;qid=1742424131&amp;sprefix=ground%2Banchors%2B12%2Bhook%2Caps%2C157&amp;sr=8-15&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Box and wires</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="9"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>VIVO Gray 250ft Bulk Cat6, CCA Ethernet Cable, 23 AWG, UTP Pull Box, Cat-6 Wire, Indoor, Network Installations CABLE-V015 </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ethernet cable</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For making custom length ethernet cables.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>~6ft</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.16 (per foot)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1.92" calcext:value-type="float">
+      <text:p>1.92</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/VIVO-Ethernet-Cable-250ft-CABLE-V015/dp/B01FIMM8WW/ref=sr_1_4?crid=QBRAK1HZ5TYQ&amp;dib=eyJ2IjoiMSJ9.qnCT_YM6-Sgr59jzRbuYkFBvBOVKYTA4ExyKHWJKLbTwN6e9R62r54CBne79Jlt0kNW6iLjJWNV9TJYITWduUHVZMnDJGNRg11O-xahGKbOkFR-wWyCRQm5GUlWwQl0kTkZcs5mH-gSMsnnY3SItTZl88sgKUgZKl98jea-jRVhYBb4bq-uf6ukeWkLC2Q019lf3lleQF_YpmbqWZXB0PAAzhRTzRIm503LdK3I_ZDVieV2HGMhlL4QEpLWYGAN4m_OLUEqXo9eYMQcaxudzQv6uXUsKnEbdfrWuSsUnw6Q.jbb2jUWjuH4rouwoyWgZBGyhWKcln8LKmq6kvKCTSwA&amp;dib_tag=se&amp;keywords=ethernet%2Bcable%2Bspool&amp;qid=1758842232&amp;s=industrial&amp;sprefix=ethernet%2Bcable%2Bspool%2Cindustrial%2C148&amp;sr=1-4&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>iGreely Flexible 10 Gauge Wire 30 Feet Stranded Oxygen Free Copper Electrical Wire for Solar Panel Automotive Car Marine Boat Speaker LED Light Wiring 10 AWG</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>battery/solar cable</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For making custom length/connector type solar and battery cables.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>~12ft red, ~12ft black </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1.2 (per foot black + red)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="14.4" calcext:value-type="float">
+      <text:p>14.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/dp/B0BYNZSBKW/ref=sspa_dk_detail_6?pd_rd_i=B0BYNZSBKW&amp;pd_rd_w=t0btv&amp;content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&amp;pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&amp;pf_rd_r=2TCQT7CZHTTBYK1KYDC7&amp;pd_rd_wg=vCuFz&amp;pd_rd_r=15290b57-39f5-4ccd-8549-83133a8b5c4d&amp;s=industrial&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>AMPELE Cable Gland 100 Pack PG7 Waterproof Plastic Adjustable 3.5-6mm Cable Glands Joints With Gaskets, Black(PG7) </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>cable glands</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For weatherproofing cables passing through the enclosure to the outside.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.23 (per gland)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1.38" calcext:value-type="float">
+      <text:p>1.38</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/AMPELE-Waterproof-Plastic-Adjustable-3-5-6mm/dp/B09X4GK3FT/ref=sr_1_1_sspa?keywords=pg7+cable+glands&amp;qid=1688681689&amp;sr=8-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>*7 if adding sagemic</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ring Terminals - Noninsulated, for 12-10 Wire Gauge and 3/8&quot; Screw</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ring terminals</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Making battery connectors for power cables.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>0.25 (per ring)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0.5" calcext:value-type="float">
+      <text:p>0.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>mcmaster</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.mcmaster.com/7113K19/</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>BougeRV 12 PCS Solar Connectors with Spanners Solar Panel Cable Connectors 6 Pairs Male/Female(10AWG) </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>solar connectors</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Making solar cable connections on cables.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 pair</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1.66 (per pair)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1.66" calcext:value-type="float">
+      <text:p>1.66</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/BougeRV-22PCS-Solar-Connectors-Female/dp/B073TX1N5Q/ref=sr_1_2_sspa?crid=5ZMZV0BSVL6P&amp;dib=eyJ2IjoiMSJ9.ZuWvinfdjGidQ9nTnG3cq_UCF_P0Vj8TjI3MdO_zO5Vyt_Udqb93JOcsJbm0ooSrMx8VbsQrWPoLmrQc4aJkEYIv8jyQXJlOyfNviMXWF3uCC6IpsCrOzAuEi28BvjulaBkVXVrlXnAxticmOAhxu9fTjTSV8mnVqxSDaE9O4lT5Yna7029SOgXohNkeU-V0yBsD0rH2pFA2CX4rTU5u8TxP6pG-La5RHNNX9zAvsmwbGBdfHGf2Z-fRt6BDIPTUU53zVXutRhU-FOHlDivQqbStTP_gHyrP75lQZ8UUw3Y.l98wCeaTKSJJWGaYFgEgF-wA6HgcAoEChIM46RMtdFo&amp;dib_tag=se&amp;keywords=solar%2Bpanel%2Bconnectors&amp;qid=1758842545&amp;s=lawn-garden&amp;sprefix=solar%2Bpanel%2Bconnector%2Clawngarden%2C173&amp;sr=1-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ITBEBE 100-Pack Cat 6 Pass Through RJ45 Connectors (RJ45 Connector / RJ45 Passthrough Cat6/Ethernet Connector) for Solid/Stranded UTP Ethernet Cable </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ethernet connectors</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Making custom length ethernet cables, sometimes after passing through cable glands.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>.2(per connector)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/gp/aw/d/B085F31B38/?_encoding=UTF8&amp;pd_rd_plhdr=t&amp;aaxitk=d9cdea892dc8615e35792f02234d15da&amp;hsa_cr_id=2317151670501&amp;qid=1758842643&amp;sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&amp;ref_=sbx_be_s_sparkle_mcd_asin_0_title&amp;pd_rd_w=X2q4Q&amp;content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&amp;pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&amp;pf_rd_r=SAS1K3FKAG2DM7HBAE0V&amp;pd_rd_wg=CztSF&amp;pd_rd_r=4017bc3c-bc51-4100-b24c-1274b9192812</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Aluminum Metal Heatsink Raspberry Pi 4 Case with Dual Fans</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pi case</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Protecting the bottom of the pi (top portion not used).</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="24.95" calcext:value-type="float">
+      <text:p>24.95</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>adafruit</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.adafruit.com/product/4340?srsltid=AfmBOoozzKsdH-1z5ByE492Hdfhsjqk6QDAVZoBVZiUk3mC4-JNgnmUMU3I</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1"/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>TICONN Waterproof Electrical Junction Box IP67 ABS Plastic Enclosure with Hinged Cover with Mounting Plate, Wall Brackets, Cable Glands (Clear, 8.7&quot;x6.7&quot;x4.3&quot;) </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>box</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Enclosure for components.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="26.96" calcext:value-type="float">
+      <text:p>26.96</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/TICONN-Waterproof-Electrical-Junction-Enclosure/dp/B0B87V7QTH/ref=sr_1_1_sspa?crid=1ONYWXUIEZO25&amp;keywords=clear%2Bplastic%2Bjunction%2Bbox&amp;qid=1696635928&amp;s=hi&amp;sprefix=clear%2Bplastic%2Bjunction%2Bbox%2Ctools%2C104&amp;sr=1-1-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Electrical Components</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="9"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>airMAX NanoBeam 5AC</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>nanobeam</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Provides streaming capability for system when connected to another networked Nanobeam.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="99" calcext:value-type="float">
+      <text:p>99</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ubiquiti</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://store.ui.com/us/en/products/nanobeam-5ac</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Raspberry Pi 4B 4GB RAM – RPI4-MODBP-4GB</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Raspberry Pi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single board computer for controlling microphone and camera.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="55" calcext:value-type="float">
+      <text:p>55</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>newark</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.newark.com/raspberry-pi/rpi4-modbp-4gb/rpi-computer-rpi-4-mod-b-4gb-1/dp/02AH3164?CMP=KNC-GUSA-PMAX-SHOPPING-ONBOARD-COMP-NEW&amp;mckv=_dc|pcrid||plid||kword||match||slid||product|02AH3164|pgrid||ptaid||&amp;gad_source=1&amp;gad_campaignid=22957739450&amp;gclid=CjwKCAjw89jGBhB0EiwA2o1On1TsaytawjCEHuQFowv_PccZnhWHWEsRmoAM08NjT4ozjejQgZqCcxoCa9IQAvD_BwE</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Hikvision DS-2DE3404W-DE 4MP Outdoor PTZ Network Mini Dome Camera</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>PTZ camera</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For video stream/inference/tracking/timelapse capability.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="409.95" calcext:value-type="float">
+      <text:p>409.95</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>bhphotovideo</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.bhphotovideo.com/c/product/1703201-REG/hikvision_ds_2de3404w_de_4mp_outdoor_ptz_network.html</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ubiquiti INS-3AF-I-G Instant 802.3af Indoor Gigabit PoE Converter</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>passive poe injector</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Converting active POE to passive for providing power and switch connection to the nanobeam.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>bhphotovideo</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.bhphotovideo.com/c/product/1327765-REG/ubiquiti_networks_ins_3af_i_g_instant_802_3af_adapter.html/?ap=y&amp;ap=y&amp;smp=y&amp;smp=y&amp;store=420&amp;lsft=BI%3A514&amp;gad_source=1&amp;gad_campaignid=21618833212&amp;gclid=CjwKCAjw-dfOBhAjEiwAq0RwI3AOhY3jlWMvzqfHwOjuuHo-1LGGn_INr_3n6wQAW5IugO3IDdHttRoCCPoQAvD_BwE</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mini Throncom 4 Ports Gigabit Industrial Fiber Ethernet Solar PoE Switch Hardened with 100/1000M Adaptive SFP Din Rail/Wall Mount VoIP/RV Truck Boost Voltage 9-58V to 48V Max 90W LNK-IMC103GP-SFP </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>active poe injector</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>For powering and connecting data on the pi, nanobeam, and camera.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="64.9" calcext:value-type="float">
+      <text:p>64.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/Throncom-PoE-Switch-SFP-IEEE802-3af/dp/B0BV2R458H/ref=sr_1_19?crid=351JDYLFUVYIY&amp;keywords=dc%2BPoE%2B%2BInjector%2BIEEE802.3%2Bat%2B30W&amp;qid=1701470808&amp;s=electronics&amp;sprefix=dc%2Bpoe%2B%2Binjector%2Bieee802.3%2Bat%2B30w%2Celectronics%2C102&amp;sr=1-19&amp;ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>waveshare Power Over Ethernet (PoE) HAT for Raspberry Pi 4B/3B+, 802.3af/at PoE Network Standard, 5V USB-A&amp;12V Header Outputs, PoE HAT Onboard Cooling Fan and MP8676 Buck Chip, Isolated </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>poe hat</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Allowing network and power to be provided to the pi with one ethernet cable.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="24.99" calcext:value-type="float">
+      <text:p>24.99</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/waveshare-Ethernet-Raspberry-Standard-Isolated/dp/B0928ZD7QQ/ref=sr_1_3?crid=3BMN3W0113LT7&amp;dib=eyJ2IjoiMSJ9.jKk39umb8wlp59ENGwEaYrXxYvdj9eww9ldN0PJnR6HqwfMCDZmlxw8y572g20lmIn2iiiecgrYE1ZtQIx3tNMIA7OcClVrh7YRiM4H6XgSZlHexdMnOWUwgrmGmU0SnYUg1LRTJcsGKef6cBFHcKl4CPskJ4ieo0wwgc0CghLSGztZjZxqzcrpgZm8Dtba7-x1ESi2jYe8uVbD8V0qUJyC2I-4-JL-It3t--BHhEwTTQvQv7iM17nJuoxuEVKSY9GiPJPvIs8AS9d3nLn9vbgKJJTVWsu-LiWeH8HWbtdw.BQvndYhYkK91MsE_WQuAHJTx0PW2VWFXFbq-RK_xoGM&amp;dib_tag=se&amp;keywords=poe+hat+pi&amp;qid=1775674753&amp;s=electronics&amp;sprefix=poe+hat+pi%2Celectronics%2C159&amp;sr=1-3</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>SageMic Add-On</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="9"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Audiomoth v1.2.0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>audiomoth </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Providing acoustic streaming and on-board inference capabilities.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="99.99" calcext:value-type="float">
+      <text:p>99.99</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>groupgets</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://groupgets.com/products/audiomoth</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>6 FT USB / SLIM MICRO USB CBL</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>audiomoth cable</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Connecting the audiomoth to the pi.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="8.88" calcext:value-type="float">
+      <text:p>8.88</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>digikey</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.digikey.com/en/products/detail/startechcom/USBAUB6BK/25697387?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=20232005509&amp;gclid=CjwKCAjw-dfOBhAjEiwAq0RwI6DlT9d9xM16qGwcZNkuYRkmvpzZV8kS2TbHi8V-qlg0uwmmKyYZXBoCIuYQAvD_BwE</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Junction Box Waterproof Dustproof IP65 ABS Plastic Universal Electric Project Enclosure Black with Fixed Ear 3.26&quot;x 2.28&quot;x 1.29&quot;(83 x 58 x 33 mm)(Pack of 2) </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>audiomoth enclosure</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Protecting the audiomoth from the elements.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3.995 per box</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7.99" calcext:value-type="float">
+      <text:p>7.99</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>amazon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://www.amazon.com/LMioEtool-Waterproof-Dustproof-Universal-Enclosure/dp/B0CF1CFPZL?pd_rd_w=cjPtk&amp;content-id=amzn1.sym.ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&amp;pf_rd_p=ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&amp;pf_rd_r=FESE3QTFR4FJDCGD84AG&amp;pd_rd_wg=83973&amp;pd_rd_r=bc55aa3d-df4f-4317-8ccb-79014a8d26df&amp;ref_=sspa_dk_detail_sbt_0&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&amp;th=1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>IP67 Acoustic Membrane</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>acoustic membrane</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Allowing audio to pass through enclosure without compromising environmental protection.</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="0.99" calcext:value-type="float">
+      <text:p>0.99</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pcbartists</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>https://pcbartists.com/product/ip67-acoustic-membrane/?srsltid=AfmBOopnKi566_8eGHqHB4uTIaRD_JGBdiQwEOQiq5AkbkK2BscXfavu</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>total</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.G2:.G39])" office:value-type="float" office:value="1514.46" calcext:value-type="float">
+      <text:p>1514.46</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
