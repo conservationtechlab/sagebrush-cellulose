@@ -1,6 +1,14 @@
 # sagebrush_hardware
 Hardware designs associated with the SageBRUSH system
 
+The SageCamv1.0 with SageMic add-on and Nanobeam connectivity has the most thorough documentation with an
+instruction manual from building to deploying. We are actively working on documentation for the other
+hardware builds, but currently, that unit is the best place to start.
+
+If you happen to build one of our systems, please let us know! We'd love to hear whether the documentation was
+thorough enough for you to follow along or if it needs more detail in specific sections. We'd appreciate feedback
+in the form of issues in the issue tracker.
+
 # Station Versions
 ## LoRa Gateways
 ### Cellular
