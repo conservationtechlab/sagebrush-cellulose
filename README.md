@@ -11,8 +11,6 @@ in the form of issues in the issue tracker.
 
 The software repo and infrastructure set-ups assosicated with this repo can be found in (sagebrush-xylem)[https://github.com/conservationtechlab/sagebrush-xylem].
 
-The front-end repo with builds for dashboarding can be found here {sagebrush-canopy)[https://github.com/conservationtechlab/sagebrush-canopy].
-
 # Station Versions
 ## LoRa Gateways
 ### Cellular
