@@ -9,6 +9,8 @@ If you happen to build one of our systems, please let us know! We'd love to hear
 thorough enough for you to follow along or if it needs more detail in specific sections. We'd appreciate feedback
 in the form of issues in the issue tracker.
 
+The software repo and infrastructure set-ups assosicated with this repo can be found in (sagebrush-xylem)[https://github.com/conservationtechlab/sagebrush-xylem].
+
 # Station Versions
 ## LoRa Gateways
 ### Cellular
